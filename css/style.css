@@ -1,0 +1,76 @@
+.tituloh2 {
+  color: gray;
+  background-color: white;
+  text-decoration: none;
+  margin-bottom: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  
+}
+
+.tituloh3 {
+  color: grey;
+  margin-bottom: 1% solid;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  justify-content: center;
+}
+
+.h4-mapa {
+  color:grey;
+  margin-bottom: 1% solid;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  justify-content: center;
+}
+
+.color-de-fondo {
+  background-color: white;
+}
+
+.parrafo-principal {
+  color: black;
+  border-radius: 2px solid;
+  background-color: yellowgreen;
+  letter-spacing: 1px;
+ }
+
+.tituloh2 {
+  background-color: gold;
+}
+
+.tituloh3 {
+  background-color: gold;
+  border-radius: 4px;
+}
+
+.footer-principal {
+  border: 2px solid black;
+  padding: 20px;
+  border-radius: yellowgreen;
+}
+
+body {
+  background-color: white;
+  border-radius: 2px solid black;
+}
+
+
+
+.footer-principal {
+  background-color: khaki;
+  justify-content: center;
+}
+
+.footer-contacto {
+  background-color: cyan;
+ 
+}
+
+.tituloh1 {
+
+  background-color: gold;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+border-radius: 50px solid black;
+}
+
+
+
+/*# sourceMappingURL=style.css.map */
